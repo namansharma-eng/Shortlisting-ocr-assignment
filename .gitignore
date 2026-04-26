@@ -1,0 +1,7 @@
+output/
+__pycache__/
+venv/
+*.zip
+dataset.zip
+images/
+test_ocr.py
